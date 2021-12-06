@@ -10,7 +10,7 @@ Metin:/shop add ---> markete eşya ekler.
 
 /shop sell ---> bir oyuncunun eşya satmasını sağlar.
 
-Mesela markete 41 yani maple log ekleyelim.
+ Mesela markete 41 yani maple log ekleyelim.
 
 1. /shop add 41---> markete eşya ekler.
 
